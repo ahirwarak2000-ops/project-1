@@ -1,5 +1,8 @@
 This is an test fiel. for GIT.
 This Line added by devloper B on 8 janury 2026.
 Dev_B: addded by dev B
-.
+Addded login feature y the dev B.
 
+====================================
+
+We are fom the digital world and we are learning DevOps.
