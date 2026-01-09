@@ -1,9 +1,4 @@
 This is an test fiel. for GIT.
 This Line added by devloper B on 8 janury 2026.
 Dev_A: addded by dev A.
-=========
-We are creating new featrue in website called callme back option.
-so for we need some API.
-
-
 
